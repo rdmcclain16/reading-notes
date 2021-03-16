@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome To My World!
 
-You can use the [editor on GitHub](https://github.com/rdmcclain16/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Hi World, My name is Raven and I am a Front-End Web Developer**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One *very* important tool in being successful is having a **Growth** Mindset, instead of a ~~Fixed~~ Mindset!
 
-### Markdown
+A **Growth** mindset to me means to know that no matter what happens, you are more than enough and more than capable to succeed at anything you want to achieve. Embrace change because change *is* growth. Take the leap anyway and you'll be amazed at how far you soar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Three Keys to Keeping A Growth Mindset: ##
+- Ackowledge the fear but have the courage to be fearless
+- Remind yourself that you are enough: smart enough, strong enough & determined enough
+- Rest and begin again, but never stop!
 
-```markdown
-Syntax highlighted code block
+## In the words of Shonda Rhimes: ##
 
-# Header 1
-## Header 2
-### Header 3
+> You just have to keep moving forward. You just have to keep doing something, seizing the next opportunity, staying open to trying something new.
 
-- Bulleted
-- List
+Here is a link to my [Github Portfolio} (https://github.com/rdmcclain16)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rdmcclain16/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
