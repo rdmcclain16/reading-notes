@@ -15,5 +15,5 @@ A **Growth** mindset to me means to know that no matter what happens, you are mo
 
 > You just have to keep moving forward. You just have to keep doing something, seizing the next opportunity, staying open to trying something new.
 
-Here is a link to my [Github Portfolio} (https://github.com/rdmcclain16)
+Here is a link to my [Github Portfolio] (https://github.com/rdmcclain16)
 
