@@ -17,9 +17,12 @@ A **Growth** mindset to me means to know that no matter what happens, you are mo
 
 Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 
-[Notes](markdown-notes.md)
-[Wireframe](wireframe-notes.md)
-[Revisions](revisions.md)
+
+# Here are my Notes from each leasson:
+-[Notes](markdown-notes.md)
+-[Wireframe](wireframe-notes.md)
+-[Revisions](revisions.md)
+-[Loops](loops.md)
 
 [See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
 
