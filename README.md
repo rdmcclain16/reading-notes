@@ -18,7 +18,7 @@ A **Growth** mindset to me means to know that no matter what happens, you are mo
 Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 
 
-# Here are my Notes from each leasson:
+# Table of Contents:
 -[Notes](markdown-notes.md)
 -[Wireframe](wireframe-notes.md)
 -[Revisions](revisions.md)
