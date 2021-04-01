@@ -23,7 +23,7 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 -[Wireframe](wireframe-notes.md)
 -[Revisions](revisions.md)
 -[Loops](loops.md)
--[Text Editors](text-editors.md)
+-[Text Editors](text-editor.md)
 
 [See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
 
