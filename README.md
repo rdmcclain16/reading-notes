@@ -25,6 +25,7 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 -[Loops](loops.md)
 -[Text Editors](text-editor.md)
 -[CSS](css.md)
+-[Javascript](javascript.md)
 
 [See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
 
