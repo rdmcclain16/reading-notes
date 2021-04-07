@@ -4,7 +4,7 @@
 * HTML consists of a title, a header or heading, a body of the page and sometimes a footer. It also contains paragraph texts and different font sizes utilizing heading tags.
 * HTML tags look like this: <p></p> -- which is an opening and closing tag. The first tag <> contains whatever the element is whether thats paragraph(p), body(body) or more.   The closing tag </> contains a back slash in order to complete the HTML tag and allow it to show.
 * Attributes: attributes are used inside of an HTML tag in order to decribe and give more information about an HTML. You have ID and Class attributes that can give more meaning to a tag.
-* Elements: You have block elements and inline elements. Block elements take up an entire page and dont allow other information on the page to be shared in the same area. This includes:<h1>, <p>, <ul>, and <li> tags. Inline elements allow information to be shared side by side on the same line of a webpage. This includes: <a>, <b>, <em> and <img> tags.
+* Elements: You have block elements and inline elements. Block elements take up an entire page and dont allow other information on the page to be shared in the same area. . Inline elements allow information to be shared side by side on the same line of a webpage. 
 * Here is more info on each tag/attribute and element:
 
  *Paragraph Element
