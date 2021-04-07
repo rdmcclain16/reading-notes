@@ -7,23 +7,23 @@
 * Elements: You have block elements and inline elements. Block elements take up an entire page and dont allow other information on the page to be shared in the same area. This includes:<h1>, <p>, <ul>, and <li> tags. Inline elements allow information to be shared side by side on the same line of a webpage. This includes: <a>, <b>, <em> and <img> tags.
 * Here is more info on each tag/attribute and element:
 
-<br> Line Break Element
+ Line Break Element
 The <br> line break element will create a line break in text and is especially useful where a division of text is required, like in a postal address. The line break element requires only an opening tag and must not have a closing tag.
 
-<img> Image Element
+ Image Element
 HTML image <img> elements embed images in documents. The src attribute contains the image URL and is mandatory. <img> is an empty element meaning it should not have a closing tag.
 
 <h1>-<h6> Heading Elements
 HTML can use six different levels of heading elements. The heading elements are ordered from the highest level <h1> to the lowest level <h6>.
 
-<p> Paragraph Element
+ Paragraph Element
 The <p> paragraph element contains and displays a block of text.
 
 HTML Attributes
 HTML attributes are values added to the opening tag of an element to configure the element or change the element’s default behavior. In the provided example, we are giving the <p> (paragraph) element a unique identifier using the id attribute and changing the color of the default text using the style attribute.
 
 
-<ul> Unordered List Element
+oUnordered List Element
 The <ul> unordered list element is used to create a list of items in no particular order. Each individual list item will have a bullet point by default.
 
 alt Attribute
@@ -41,11 +41,10 @@ When needed, the id value can be called upon by CSS and JavaScript to manipulate
 The <body> element represents the content of an HTML document. Content inside <body> tags are rendered on the web browsers.
 
 Note: There can be only one <body> element in a document.
-
-<span> Span Element
+Span Element
 The <span> element is an inline container for text and can be used to group text for styling purposes. However, as <span> is a generic container to separate pieces of text from a larger body of text, its use should be avoided if a more semantic element is available.
 
-<strong> Strong Element
+ Strong Element
 The <strong> element highlights important, serious, or urgent text and browsers will normally render this highlighted text in bold by default.
 
 HTML Element
@@ -55,10 +54,10 @@ An HTML element is a piece of content in an HTML document and uses the following
 HTML Tag
 The syntax for a single HTML tag is an opening angle bracket < followed by the element name and a closing angle bracket >. Here is an example of an opening <div> tag.
 
-<div>
-<a> Anchor Element
+
+Anchor Element
 The <a> anchor element is used to create hyperlinks in an HTML document. The hyperlinks can point to other webpages, files on the same server, a location on the same page, or any other URL via the hyperlink reference attribute, href. The href determines the location the anchor element points to.
 
 
-<head> Head Element
+Head Element
 The <head> element contains general information about an HTML page that isn’t displayed on the page itself. This information is called metadata and includes things like the title of the HTML document and links to stylesheets.
