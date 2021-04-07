@@ -7,14 +7,6 @@
 * Elements: You have block elements and inline elements. Block elements take up an entire page and dont allow other information on the page to be shared in the same area. This includes:<h1>, <p>, <ul>, and <li> tags. Inline elements allow information to be shared side by side on the same line of a webpage. This includes: <a>, <b>, <em> and <img> tags.
 * Here is more info on each tag/attribute and element:
 
-*Line Break Element
-The <br> line break element will create a line break in text and is especially useful where a division of text is required, like in a postal address. The line break element requires only an opening tag and must not have a closing tag.
-
-*Image Element
-HTML image <img> elements embed images in documents. The src attribute contains the image URL and is mandatory. <img> is an empty element meaning it should not have a closing tag.
-*Heading Elements
-HTML can use six different levels of heading elements. The heading elements are ordered from the highest level <h1> to the lowest level <h6>.
-
  *Paragraph Element
 The paragraph element contains and displays a block of text.
 
