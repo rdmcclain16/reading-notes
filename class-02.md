@@ -4,7 +4,7 @@
 2. **WHAT** : CSS was a language designed to style a website. It adds color, patterns, layout, formatting, sizing and etc to a page.
 3. **HOW** : A user can creat styling within an HTML document or create a seperate CSS file and link it to the main HTML page so that it adds styling to that page.
  
- # What is Javascript?
+ ## What is Javascript?
  
 1. **WHY** : JS adds interaction to a website. It allows a site to go from a static page to one with behaviors.
 2. **WHAT** : JavaScript is a programming language that powers the dynamic behavior on most websites. Alongside HTML and CSS, it is a core technology that makes the web run.
