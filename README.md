@@ -31,6 +31,7 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 # Code 201 Reading Notes:
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
+- [Class 3](class-03.md)
 
 [See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
 
