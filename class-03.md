@@ -19,4 +19,8 @@ CCS treats all HTML elements as if they have an imaginary box around them. This 
 
 ## Loops
 Loops check a condition that has been st. If its true, it will run a code block until it returns false and then it stops.
-- For Loops: 
+- For Loops: For Loops are used to set a specific code for a certain number of times. 
+- While Loops: While Loops are used when you dont know how many times a code should run. The code will continue to run as its been set until a condition returns false.
+- Do While Loops: this loop will run always run the statements or conditions inside a curly bracket even IF THE THE CONDITIONS TURNS FALSE.
+
+
