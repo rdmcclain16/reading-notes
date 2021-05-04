@@ -35,6 +35,7 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 - [Class 4](class-04.md)
 - [Class 5](class-05.md)
 - [Class 6](class-06.md)
+- [Class 7](class-07.md)
 
 [See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
 
