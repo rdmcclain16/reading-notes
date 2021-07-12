@@ -37,5 +37,6 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 - [Class 6](class-06.md)
 - [Class 7](class-07.md)
 
-[See Sharonesse's Page here](https://sahenderson101.github.io/LearningMarkdownLab1/)
+# Code 201 Reading Notes:
+
 
