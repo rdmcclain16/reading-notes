@@ -28,7 +28,7 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 -[Javascript](javascript.md)
 -[Functions](functions.md)
 
-# Code 201 Reading Notes:
+# Code 201 Reading Notes-Foundations of Software Development:
 - [Class 1](class-01.md)
 - [Class 2](class-02.md)
 - [Class 3](class-03.md)
