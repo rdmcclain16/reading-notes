@@ -37,6 +37,6 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 - [Class 6](class-06.md)
 - [Class 7](class-07.md)
 
-# Code 201 Reading Notes:
+# Code 301 Reading Notes:
 
 
