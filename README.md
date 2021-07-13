@@ -38,5 +38,5 @@ Here is a link to my [Github Portfolio](https://github.com/rdmcclain16)
 - [Class 7](class-07.md)
 
 # Code 301 Reading Notes-Intermediate Software Development:
-
+- [Class 1](class-01301.md)
 
